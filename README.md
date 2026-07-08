@@ -1,4 +1,4 @@
-# 🐾 Simple Quadruped Robot Mechanical Design & Simulation
+# 🐾 Simple Quadruped Robot Mechanical Design 
 
 An engineering project focused on designing and simulating a simple quadruped robot (robotic dog) that mimics natural animal locomotion, analyzing mechanical stability, load distribution, degrees of freedom, and motor selection.
 
