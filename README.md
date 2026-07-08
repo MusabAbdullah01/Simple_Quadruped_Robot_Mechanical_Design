@@ -86,7 +86,7 @@ $$T = F \times L$$
 $$\text{T} = 10\text{ N} \times 0.08\text{ m} = 0.8\text{ N.m}$$
 
 📌 **Engineering Conclusion:** The selected servo motors must be rated for an operating torque **greater than $0.8\text{ N.m}$** to account for a dynamic factor of safety and guarantee operational stability.
-> ![chassis Robot Design](robot_chassis.png)
+> ![chassis Robot Design](robot_chassis.jpg)
 
 ---
 
