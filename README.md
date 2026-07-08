@@ -39,7 +39,7 @@ The robot utilizes a bio-inspired quadrupedal configuration:
 * **Design Advantages:** This geometry evenly distributes the payload across all four limbs, maximizes static stability, and provides a protected internal cavity to shelter the actuators, microcontrollers, batteries, and sensors.
 
 > 📷 *Initial General Design of the Robot (Front & Back Views):*
-> ![Full Robot Design](images/robot_full.png)
+> ![Full Robot Design](robot_full.png)
 
 ### 2. Leg Anatomy
 Each mechanical limb consists of three primary components:
@@ -48,7 +48,7 @@ Each mechanical limb consists of three primary components:
 3. **Rubber Foot:** Attached to the bottom of the limb to provide a high coefficient of friction with the ground and absorb impact shocks.
 
 > 📷 *Detailed Leg Anatomy and Internal Joints:*
-> ![Leg Details](images/leg_details.png)
+> ![Leg Details](leg_details.png)
 
 ---
 
