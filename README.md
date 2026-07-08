@@ -86,6 +86,7 @@ $$T = F \times L$$
 $$\text{T} = 10\text{ N} \times 0.08\text{ m} = 0.8\text{ N.m}$$
 
 📌 **Engineering Conclusion:** The selected servo motors must be rated for an operating torque **greater than $0.8\text{ N.m}$** to account for a dynamic factor of safety and guarantee operational stability.
+> ![chassis Robot Design](robot_chassis.png)
 
 ---
 
@@ -106,7 +107,7 @@ The primary locomotion pattern chosen for this robot is the **Sequence Walk Gait
   1. Ensures the Center of Gravity (CoG) stays safely within the support polygon, providing excellent static stability.
   2. Greatly reduces the probability of tipping or loss of balance during locomotion.
   3. Simplifies programmatic control algorithms and inverse kinematics calculations.
-
+> ![leg Robot anatomy](leg_anatomy.png)
 ---
 
 ## ⚠️ Anticipated Mechanical Challenges
